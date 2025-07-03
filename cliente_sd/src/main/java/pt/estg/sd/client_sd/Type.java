@@ -1,0 +1,7 @@
+package pt.estg.sd.client_sd;
+
+public enum Type {
+    OPERACAO_DE_EVACUACAO_EM_MASSA,
+    ATIVACAO_DE_COMUNICACOES_DE_EMERGENCIA,
+    DISTRIBUICAO_DE_RECURSOS_DE_EMERGENCIA
+}
